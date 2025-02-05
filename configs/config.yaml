@@ -1,0 +1,13 @@
+appName: InixindoCourse
+environment: development
+apiVersion: v1
+key: HelloInixindoJogja123456
+server:
+  host: 0.0.0.0
+  port: 3001
+database:
+  dbHost: localhost
+  dbPort: 5432
+  username: postgres
+  password: password
+  dbName: inixindo_courses
